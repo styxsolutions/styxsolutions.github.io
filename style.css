@@ -39,7 +39,6 @@ button{
 
   cursor: pointer;
 
-  transition: 0.1s;
 
   border-radius: 3px;
 }
@@ -275,7 +274,7 @@ button:active{
   border-radius: 24px;
 }
 
-/* Handle eon hover */
+/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: black;
 }
