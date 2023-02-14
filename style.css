@@ -275,7 +275,7 @@ button:active{
   border-radius: 24px;
 }
 
-/* Handle on hover */
+/* Handle eon hover */
 ::-webkit-scrollbar-thumb:hover {
   background: black;
 }
